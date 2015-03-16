@@ -1,4 +1,4 @@
-#Dynamic Programing – 
+#Dynamic Programing 
 #Assembly Line Problem
 ##Author: Aunn Raza | BSCS2B | 01248
 ##Github: http://www.github.com/syedaunn/assemblyLineAlgorithm
