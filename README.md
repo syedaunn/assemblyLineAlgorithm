@@ -1,9 +1,9 @@
 #Dynamic Programing 
 #Assembly Line Problem
 ##Author: Aunn Raza | BSCS2B | 01248
-##Github: http://www.github.com/syedaunn/assemblyLineAlgorithm
+###Github: http://www.github.com/syedaunn/assemblyLineAlgorithm
 
-###Reference:  Sec: Dynamic Programing , Introduction to Algorithms (2nd edition)  By C.L.R.S
+####Reference:  Sec: Dynamic Programing , Introduction to Algorithms (2nd edition)  By C.L.R.S
 
 Assembly Line Problem is an optimization (specifically minimization) problem whose optimal solution can be attained by dynamic programming methodology in linear [O(n)] time while checking each combination can take exponential [O(2n)] time.
 
